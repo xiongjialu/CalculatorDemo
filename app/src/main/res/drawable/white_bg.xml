@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!---设置圆角 半径为5dp-->
+    <corners android:radius="10dp"/>
+
+    <!---渐变
+    <gradient
+        android:startColor="#FFFFFF"
+        android:endColor="#FF0000" />
+
+    边框
+    <stroke
+        android:color="#000"
+        android:width="1dp"/>
+
+        solid填充颜色
+      -->
+
+    <solid
+        android:color="#ffffff"/>
+</shape>
